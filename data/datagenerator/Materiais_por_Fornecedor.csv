@@ -1,0 +1,31 @@
+Fornecedor,NM_MATERIAL,TP_MATERIAL,NR_QUANT_ESTOQUE,NR_PRECO_UNIDADE
+HidroTec Ambiental LTDA,Filtro de Areia Camada Grossa,FILTRO,39,72.56
+HidroTec Ambiental LTDA,Filtro de Carvão Ativado Premium,FILTRO,10,137.87
+HidroTec Ambiental LTDA,Reservatório 40L em PVC,RESERVATORIO,14,60.53
+SolarFix Energia Renovável,Painel Solar 10W,ELETRONICO,47,142.99
+SolarFix Energia Renovável,Controlador de Carga Solar,ELETRONICO,40,123.39
+SolarFix Energia Renovável,Bateria de Lítio 12V,ELETRONICO,15,37.55
+BioÁgua Soluções Sustentáveis,Caixa de Água 60L,RESERVATORIO,10,114.93
+BioÁgua Soluções Sustentáveis,Filtro Multicamadas Compacto,FILTRO,37,126.79
+BioÁgua Soluções Sustentáveis,Kit Conector de Entrada,RESERVATORIO,34,69.78
+ÁguaPura Equipamentos,Filtro UV Padrão,FILTRO,35,23.66
+ÁguaPura Equipamentos,Tanque de Decantação,RESERVATORIO,9,65.71
+ÁguaPura Equipamentos,Filtro de Sedimentos,FILTRO,20,20.17
+EcoReservas Brasil,Tanque Modular 100L,RESERVATORIO,8,24.46
+EcoReservas Brasil,Tampa Selada de Reservatório,RESERVATORIO,38,112.47
+EcoReservas Brasil,Base de Apoio em Plástico,RESERVATORIO,22,142.43
+FiltroMax Industrial,Filtro Industrial de Areia,FILTRO,46,147.37
+FiltroMax Industrial,Filtro de Alta Pressão,FILTRO,15,103.55
+FiltroMax Industrial,Elemento Filtrante Substituível,FILTRO,49,115.46
+UVClean Tecnologia,Lâmpada UV-C 15W,ELETRONICO,41,58.55
+UVClean Tecnologia,Reator Eletrônico UV,ELETRONICO,12,118.19
+UVClean Tecnologia,Kit UV Clean Pro,ELETRONICO,43,65.7
+TecnoFluidez Sistemas,Sensor de Nível Ultrassônico,SENSOR,32,90.0
+TecnoFluidez Sistemas,Controlador de Vazão Digital,ELETRONICO,22,120.36
+TecnoFluidez Sistemas,Placa de Comando IoT,ELETRONICO,47,92.93
+SensorVille Equipamentos IoT,Sensor de pH Modelo A1,SENSOR,41,104.79
+SensorVille Equipamentos IoT,Sensor de Turbidez T-200,SENSOR,6,42.5
+SensorVille Equipamentos IoT,Sensor de Temperatura Aquática,SENSOR,23,124.65
+GreenPipe Engenharia,Tubo Conexão Rápida 3/4,RESERVATORIO,50,87.16
+GreenPipe Engenharia,Joelho PVC 90°,RESERVATORIO,49,88.94
+GreenPipe Engenharia,Válvula de Escoamento,RESERVATORIO,40,122.56
