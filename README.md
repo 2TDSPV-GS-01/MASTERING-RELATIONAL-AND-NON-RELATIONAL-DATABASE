@@ -398,7 +398,12 @@ O banco de dados Oracle foi utilizado em diferentes frentes do projeto, servindo
 
 - **Framework Application (.NET)**: uma aplicação de interface para gestão de fornecedores, sensores e estações foi conectada diretamente ao banco Oracle, utilizando bibliotecas de conexão e manipulando os dados através de procedures e funções criadas na disciplina de Banco de Dados.
 
-YouTube: [Link do video]()
+#### [Voltar](#índice)
+
+## **Vídeo Demonstração**
+
+- YouTube: [PITCH](https://www.youtube.com/watch?v=pGPg7w3ZHkE)
+- YouTube: [Aplicação](https://www.youtube.com/watch?v=04W2IT3F3AA)
 
 #### [Voltar](#índice)
 
